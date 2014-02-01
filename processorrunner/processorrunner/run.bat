@@ -1,0 +1,1 @@
+javac -cp it.slowik.ascan-1.0-SNAPSHOT.jar; TestFacadeRemote.java
